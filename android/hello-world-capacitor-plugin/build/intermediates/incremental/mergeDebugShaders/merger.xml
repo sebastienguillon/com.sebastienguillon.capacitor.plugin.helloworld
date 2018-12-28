@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sebastienguillon/Documents/dev/tests/capacitor-testbed/node_modules/hello-world-capacitor-plugin/android/hello-world-capacitor-plugin/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/sebastienguillon/Documents/dev/tests/capacitor-testbed/node_modules/hello-world-capacitor-plugin/android/hello-world-capacitor-plugin/src/debug/shaders"/></dataSet></merger>
